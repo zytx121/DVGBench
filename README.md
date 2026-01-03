@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-    <img src="images/demo1.gif" width=60%>
+    <img src="images/demo1.gif" width=50%>
 </p>
 
 
@@ -129,16 +129,16 @@ Two examples used to demonstrate the impact of the I2E-CoT mechanism on image at
 ## 🎬 Demo
 
 <p align="center">
-    <img src="images/demo2.gif" width=60%>
+    <img src="images/demo2.gif" width=50%>
 </p>
 <p align="center">
-    <img src="images/demo3.gif" width=60%>
+    <img src="images/demo3.gif" width=50%>
 </p>
 <p align="center">
-    <img src="images/demo4.gif" width=60%>
+    <img src="images/demo4.gif" width=50%>
 </p>
 <p align="center">
-    <img src="images/demo5.gif" width=60%>
+    <img src="images/demo5.gif" width=50%>
 </p>
 
 
