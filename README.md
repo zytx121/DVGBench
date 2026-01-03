@@ -1,5 +1,5 @@
 <div align="center">
-<h1>DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models </h1>
+<h1>DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models</h1>
 
 <div>
     <a href='https://zytx121.github.io/' target='_blank'>Yue Zhou</a><sup>1</sup>&emsp;
@@ -139,18 +139,29 @@ Two examples used to demonstrate the impact of the I2E-CoT mechanism on image at
 </p>
 
 
+    Jue Chen<sup>1</sup>&emsp;
+    Zilun Zhang<sup>2</sup>&emsp;
+    Penghui Huang<sup>3</sup>&emsp;
+    Ran Ding<sup>3</sup>&emsp;
+    Zhentao Zou<sup>3</sup>&emsp;
+    PengFei Gao<sup>4</sup>&emsp;
+    Yuchen Wei<sup>4</sup>&emsp;
+    Ke Li<sup>4</sup>&emsp;
+    <a href='https://yangxue.site/' target='_blank'>Xue Yang</a><sup>3</sup>&emsp;
+    <a href='https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=53&infoid=66' target='_blank'>Jiang Xue</a><sup>3</sup>&emsp;
+    Hongxin Yang<sup>1</sup>&emsp;
+    Jonathan Li<sup>1</sup>&emsp;
 
 ## 📜 Citation
 ```bibtex
-@ARTICLE{zhou2025avimath,
-  author={Zhou, Yue and Feng, Litong and Lan, Mengcheng and Yang, Xue and Li, Qingyun and Ke, Yiping and Jiang, Xue and Zhang, Wayne},
+@article{zhou2026dvgbench,
+  author={Zhou, Yue and Chen, Jue and Huang, Penghui and Ding, Ran and Zou, Zhentao and Gao, Pengfei and Li, Ke and Yang, Xue and Jiang, Xue and Yang, Hongxin and Li Jonathan},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing}, 
-  title={Multimodal Mathematical Reasoning Embedded in Aerial Vehicle Imagery: Benchmarking, Analysis, and Exploration}, 
+  title={DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models}, 
   year={2026},
   volume={},
   number={},
-  pages={},
-  doi={}
+  pages={}
 }
 ```
 
