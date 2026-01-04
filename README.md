@@ -37,8 +37,8 @@
 
 ## 📢 Latest Updates
 
-- **[2026.01.03]** We will release the benchmark and evaluation code ASAP.
-- **[2026.01.02]** Accepted by ISPRS JPRS.
+- **[2026.01.04]** 🚀🚀 We have released the evaluation code and benchmark (test set).
+- **[2026.01.02]** 🎉🎉 Accepted by ISPRS JPRS 2026.
 
 ---
 
